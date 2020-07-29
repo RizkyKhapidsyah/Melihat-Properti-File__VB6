@@ -1,0 +1,1 @@
+ini hanyalah file contoh yang akan digunakan untuk dilihat propertinya melalui program
